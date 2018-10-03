@@ -1,0 +1,14 @@
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.csprojAssemblyReference.cache
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.RazorAssemblyInfo.cache
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.RazorAssemblyInfo.cs
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.AssemblyInfoInputs.cache
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.AssemblyInfo.cs
+C:\Users\Ilari\Desktop\Backend Final Project\bin\Debug\netcoreapp2.1\Backend Final Project.deps.json
+C:\Users\Ilari\Desktop\Backend Final Project\bin\Debug\netcoreapp2.1\Backend Final Project.runtimeconfig.json
+C:\Users\Ilari\Desktop\Backend Final Project\bin\Debug\netcoreapp2.1\Backend Final Project.runtimeconfig.dev.json
+C:\Users\Ilari\Desktop\Backend Final Project\bin\Debug\netcoreapp2.1\Backend Final Project.dll
+C:\Users\Ilari\Desktop\Backend Final Project\bin\Debug\netcoreapp2.1\Backend Final Project.pdb
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.RazorTargetAssemblyInfo.cache
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.dll
+C:\Users\Ilari\Desktop\Backend Final Project\obj\Debug\netcoreapp2.1\Backend Final Project.pdb
